@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\ObrushtaneNaNiz\bin\Debug\net8.0\ObrushtaneNaNiz.exe
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\ObrushtaneNaNiz\bin\Debug\net8.0\ObrushtaneNaNiz.deps.json
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\ObrushtaneNaNiz\bin\Debug\net8.0\ObrushtaneNaNiz.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\ObrushtaneNaNiz\bin\Debug\net8.0\ObrushtaneNaNiz.dll
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\ObrushtaneNaNiz\bin\Debug\net8.0\ObrushtaneNaNiz.pdb
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\ObrushtaneNaNiz\obj\Debug\net8.0\ObrushtaneNaNiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\ObrushtaneNaNiz\obj\Debug\net8.0\ObrushtaneNaNiz.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\ObrushtaneNaNiz\obj\Debug\net8.0\ObrushtaneNaNiz.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\ObrushtaneNaNiz\obj\Debug\net8.0\ObrushtaneNaNiz.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\ObrushtaneNaNiz\obj\Debug\net8.0\ObrushtaneNaNiz.dll
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\ObrushtaneNaNiz\obj\Debug\net8.0\refint\ObrushtaneNaNiz.dll
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\ObrushtaneNaNiz\obj\Debug\net8.0\ObrushtaneNaNiz.pdb
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\ObrushtaneNaNiz\obj\Debug\net8.0\ObrushtaneNaNiz.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\ObrushtaneNaNiz\obj\Debug\net8.0\ref\ObrushtaneNaNiz.dll

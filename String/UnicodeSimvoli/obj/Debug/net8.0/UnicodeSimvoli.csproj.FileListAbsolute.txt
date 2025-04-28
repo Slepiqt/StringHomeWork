@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UnicodeSimvoli\bin\Debug\net8.0\UnicodeSimvoli.exe
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UnicodeSimvoli\bin\Debug\net8.0\UnicodeSimvoli.deps.json
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UnicodeSimvoli\bin\Debug\net8.0\UnicodeSimvoli.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UnicodeSimvoli\bin\Debug\net8.0\UnicodeSimvoli.dll
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UnicodeSimvoli\bin\Debug\net8.0\UnicodeSimvoli.pdb
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UnicodeSimvoli\obj\Debug\net8.0\UnicodeSimvoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UnicodeSimvoli\obj\Debug\net8.0\UnicodeSimvoli.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UnicodeSimvoli\obj\Debug\net8.0\UnicodeSimvoli.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UnicodeSimvoli\obj\Debug\net8.0\UnicodeSimvoli.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UnicodeSimvoli\obj\Debug\net8.0\UnicodeSimvoli.dll
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UnicodeSimvoli\obj\Debug\net8.0\refint\UnicodeSimvoli.dll
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UnicodeSimvoli\obj\Debug\net8.0\UnicodeSimvoli.pdb
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UnicodeSimvoli\obj\Debug\net8.0\UnicodeSimvoli.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UnicodeSimvoli\obj\Debug\net8.0\ref\UnicodeSimvoli.dll

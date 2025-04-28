@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\Preobrazuvane\bin\Debug\net8.0\Preobrazuvane.exe
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\Preobrazuvane\bin\Debug\net8.0\Preobrazuvane.deps.json
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\Preobrazuvane\bin\Debug\net8.0\Preobrazuvane.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\Preobrazuvane\bin\Debug\net8.0\Preobrazuvane.dll
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\Preobrazuvane\bin\Debug\net8.0\Preobrazuvane.pdb
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\Preobrazuvane\obj\Debug\net8.0\Preobrazuvane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\Preobrazuvane\obj\Debug\net8.0\Preobrazuvane.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\Preobrazuvane\obj\Debug\net8.0\Preobrazuvane.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\Preobrazuvane\obj\Debug\net8.0\Preobrazuvane.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\Preobrazuvane\obj\Debug\net8.0\Preobrazuvane.dll
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\Preobrazuvane\obj\Debug\net8.0\refint\Preobrazuvane.dll
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\Preobrazuvane\obj\Debug\net8.0\Preobrazuvane.pdb
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\Preobrazuvane\obj\Debug\net8.0\Preobrazuvane.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\Preobrazuvane\obj\Debug\net8.0\ref\Preobrazuvane.dll

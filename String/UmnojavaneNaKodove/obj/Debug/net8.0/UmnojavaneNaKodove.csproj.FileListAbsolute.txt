@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UmnojavaneNaKodove\bin\Debug\net8.0\UmnojavaneNaKodove.exe
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UmnojavaneNaKodove\bin\Debug\net8.0\UmnojavaneNaKodove.deps.json
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UmnojavaneNaKodove\bin\Debug\net8.0\UmnojavaneNaKodove.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UmnojavaneNaKodove\bin\Debug\net8.0\UmnojavaneNaKodove.dll
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UmnojavaneNaKodove\bin\Debug\net8.0\UmnojavaneNaKodove.pdb
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UmnojavaneNaKodove\obj\Debug\net8.0\UmnojavaneNaKodove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UmnojavaneNaKodove\obj\Debug\net8.0\UmnojavaneNaKodove.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UmnojavaneNaKodove\obj\Debug\net8.0\UmnojavaneNaKodove.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UmnojavaneNaKodove\obj\Debug\net8.0\UmnojavaneNaKodove.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UmnojavaneNaKodove\obj\Debug\net8.0\UmnojavaneNaKodove.dll
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UmnojavaneNaKodove\obj\Debug\net8.0\refint\UmnojavaneNaKodove.dll
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UmnojavaneNaKodove\obj\Debug\net8.0\UmnojavaneNaKodove.pdb
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UmnojavaneNaKodove\obj\Debug\net8.0\UmnojavaneNaKodove.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\UmnojavaneNaKodove\obj\Debug\net8.0\ref\UmnojavaneNaKodove.dll
