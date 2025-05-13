@@ -1,0 +1,15 @@
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\StringIzrechenie\bin\Debug\net8.0\StringIzrechenie.exe
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\StringIzrechenie\bin\Debug\net8.0\StringIzrechenie.deps.json
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\StringIzrechenie\bin\Debug\net8.0\StringIzrechenie.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\StringIzrechenie\bin\Debug\net8.0\StringIzrechenie.dll
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\StringIzrechenie\bin\Debug\net8.0\StringIzrechenie.pdb
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\StringIzrechenie\obj\Debug\net8.0\StringIzrechenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\StringIzrechenie\obj\Debug\net8.0\StringIzrechenie.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\StringIzrechenie\obj\Debug\net8.0\StringIzrechenie.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\StringIzrechenie\obj\Debug\net8.0\StringIzrechenie.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\StringIzrechenie\obj\Debug\net8.0\StringIzrechenie.sourcelink.json
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\StringIzrechenie\obj\Debug\net8.0\StringIzrechenie.dll
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\StringIzrechenie\obj\Debug\net8.0\refint\StringIzrechenie.dll
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\StringIzrechenie\obj\Debug\net8.0\StringIzrechenie.pdb
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\StringIzrechenie\obj\Debug\net8.0\StringIzrechenie.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\StringHomeWork\String\StringIzrechenie\obj\Debug\net8.0\ref\StringIzrechenie.dll

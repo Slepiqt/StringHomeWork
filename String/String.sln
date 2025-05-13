@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Preobrazuvane", "Preobrazuvane\Preobrazuvane.csproj", "{A40E2052-75D6-49A4-A20B-2935A4008889}"
 EndProject
@@ -14,6 +14,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmnojavaneNaKodove", "UmnojavaneNaKodove\UmnojavaneNaKodove.csproj", "{467C0C80-2A22-4AD5-A166-B114921F6156}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrom", "Palindrom\Palindrom.csproj", "{2E4FEED8-FF56-40A7-ACE1-288D2C5D78FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UvelichavaneNaZaplata", "UvelichavaneNaZaplata\UvelichavaneNaZaplata.csproj", "{BCFF38E4-1FF1-493A-89D9-1EE655616832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ferma", "Ferma\Ferma.csproj", "{386D15CA-9505-4460-B349-630342C46481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringIzrechenie", "StringIzrechenie\StringIzrechenie.csproj", "{62C8EA13-6EA0-464D-A74C-8BA229139FB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{2E4FEED8-FF56-40A7-ACE1-288D2C5D78FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E4FEED8-FF56-40A7-ACE1-288D2C5D78FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E4FEED8-FF56-40A7-ACE1-288D2C5D78FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFF38E4-1FF1-493A-89D9-1EE655616832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFF38E4-1FF1-493A-89D9-1EE655616832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFF38E4-1FF1-493A-89D9-1EE655616832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFF38E4-1FF1-493A-89D9-1EE655616832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386D15CA-9505-4460-B349-630342C46481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386D15CA-9505-4460-B349-630342C46481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386D15CA-9505-4460-B349-630342C46481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386D15CA-9505-4460-B349-630342C46481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62C8EA13-6EA0-464D-A74C-8BA229139FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C8EA13-6EA0-464D-A74C-8BA229139FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C8EA13-6EA0-464D-A74C-8BA229139FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C8EA13-6EA0-464D-A74C-8BA229139FB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

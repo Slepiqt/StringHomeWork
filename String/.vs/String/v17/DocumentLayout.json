@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E4FEED8-FF56-40A7-ACE1-288D2C5D78FE}|Palindrom\\Palindrom.csproj|c:\\users\\atana\\onedrive\\desktop\\stringhomework\\string\\palindrom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E4FEED8-FF56-40A7-ACE1-288D2C5D78FE}|Palindrom\\Palindrom.csproj|solutionrelative:palindrom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62C8EA13-6EA0-464D-A74C-8BA229139FB9}|StringIzrechenie\\StringIzrechenie.csproj|c:\\users\\atana\\onedrive\\desktop\\stringhomework\\string\\stringizrechenie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C8EA13-6EA0-464D-A74C-8BA229139FB9}|StringIzrechenie\\StringIzrechenie.csproj|solutionrelative:stringizrechenie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386D15CA-9505-4460-B349-630342C46481}|Ferma\\Ferma.csproj|c:\\users\\atana\\onedrive\\desktop\\stringhomework\\string\\ferma\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386D15CA-9505-4460-B349-630342C46481}|Ferma\\Ferma.csproj|solutionrelative:ferma\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386D15CA-9505-4460-B349-630342C46481}|Ferma\\Ferma.csproj|c:\\users\\atana\\onedrive\\desktop\\stringhomework\\string\\ferma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386D15CA-9505-4460-B349-630342C46481}|Ferma\\Ferma.csproj|solutionrelative:ferma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF38E4-1FF1-493A-89D9-1EE655616832}|UvelichavaneNaZaplata\\UvelichavaneNaZaplata.csproj|c:\\users\\atana\\onedrive\\desktop\\stringhomework\\string\\uvelichavanenazaplata\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF38E4-1FF1-493A-89D9-1EE655616832}|UvelichavaneNaZaplata\\UvelichavaneNaZaplata.csproj|solutionrelative:uvelichavanenazaplata\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF38E4-1FF1-493A-89D9-1EE655616832}|UvelichavaneNaZaplata\\UvelichavaneNaZaplata.csproj|c:\\users\\atana\\onedrive\\desktop\\stringhomework\\string\\uvelichavanenazaplata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF38E4-1FF1-493A-89D9-1EE655616832}|UvelichavaneNaZaplata\\UvelichavaneNaZaplata.csproj|solutionrelative:uvelichavanenazaplata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{467C0C80-2A22-4AD5-A166-B114921F6156}|UmnojavaneNaKodove\\UmnojavaneNaKodove.csproj|c:\\users\\atana\\onedrive\\desktop\\stringhomework\\string\\umnojavanenakodove\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +29,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B8A0AED5-7D83-499E-936E-1DE5FC5CD09E}|UnicodeSimvoli\\UnicodeSimvoli.csproj|c:\\users\\atana\\onedrive\\desktop\\stringhomework\\string\\unicodesimvoli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8A0AED5-7D83-499E-936E-1DE5FC5CD09E}|UnicodeSimvoli\\UnicodeSimvoli.csproj|solutionrelative:unicodesimvoli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4FEED8-FF56-40A7-ACE1-288D2C5D78FE}|Palindrom\\Palindrom.csproj|c:\\users\\atana\\onedrive\\desktop\\stringhomework\\string\\palindrom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4FEED8-FF56-40A7-ACE1-288D2C5D78FE}|Palindrom\\Palindrom.csproj|solutionrelative:palindrom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD6708DD-12AF-4197-86E0-93CACBD61176}|ObrushtaneNaNiz\\ObrushtaneNaNiz.csproj|c:\\users\\atana\\onedrive\\desktop\\stringhomework\\string\\obrushtanenaniz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,57 +68,115 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\Palindrom\\Program.cs",
-              "RelativeDocumentMoniker": "Palindrom\\Program.cs",
-              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\Palindrom\\Program.cs",
-              "RelativeToolTip": "Palindrom\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\StringIzrechenie\\Program.cs",
+              "RelativeDocumentMoniker": "StringIzrechenie\\Program.cs",
+              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\StringIzrechenie\\Program.cs",
+              "RelativeToolTip": "StringIzrechenie\\Program.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAA3wJ8AAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T18:54:41.763Z",
+              "WhenOpened": "2025-05-13T14:24:43.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\UmnojavaneNaKodove\\Program.cs",
-              "RelativeDocumentMoniker": "UmnojavaneNaKodove\\Program.cs",
-              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\UmnojavaneNaKodove\\Program.cs",
-              "RelativeToolTip": "UmnojavaneNaKodove\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Title": "Chicken.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\Ferma\\Chicken.cs",
+              "RelativeDocumentMoniker": "Ferma\\Chicken.cs",
+              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\Ferma\\Chicken.cs",
+              "RelativeToolTip": "Ferma\\Chicken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T18:11:53.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Preobrazuvane",
-              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\Preobrazuvane\\Preobrazuvane.csproj",
-              "RelativeDocumentMoniker": "Preobrazuvane\\Preobrazuvane.csproj",
-              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\Preobrazuvane\\Preobrazuvane.csproj",
-              "RelativeToolTip": "Preobrazuvane\\Preobrazuvane.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-28T17:58:51.572Z",
+              "WhenOpened": "2025-04-29T17:57:36.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\UnicodeSimvoli\\Program.cs",
-              "RelativeDocumentMoniker": "UnicodeSimvoli\\Program.cs",
-              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\UnicodeSimvoli\\Program.cs",
-              "RelativeToolTip": "UnicodeSimvoli\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\Ferma\\Program.cs",
+              "RelativeDocumentMoniker": "Ferma\\Program.cs",
+              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\Ferma\\Program.cs",
+              "RelativeToolTip": "Ferma\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T17:53:50.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T17:48:33.334Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\UvelichavaneNaZaplata\\Person.cs",
+              "RelativeDocumentMoniker": "UvelichavaneNaZaplata\\Person.cs",
+              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\UvelichavaneNaZaplata\\Person.cs",
+              "RelativeToolTip": "UvelichavaneNaZaplata\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:39:44.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\UvelichavaneNaZaplata\\Program.cs",
+              "RelativeDocumentMoniker": "UvelichavaneNaZaplata\\Program.cs",
+              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\UvelichavaneNaZaplata\\Program.cs",
+              "RelativeToolTip": "UvelichavaneNaZaplata\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:36:45.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\Palindrom\\Program.cs",
+              "RelativeDocumentMoniker": "Palindrom\\Program.cs",
+              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\Palindrom\\Program.cs",
+              "RelativeToolTip": "Palindrom\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:54:41.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\UmnojavaneNaKodove\\Program.cs",
+              "RelativeDocumentMoniker": "UmnojavaneNaKodove\\Program.cs",
+              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\UmnojavaneNaKodove\\Program.cs",
+              "RelativeToolTip": "UmnojavaneNaKodove\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:11:53.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Preobrazuvane.csproj",
+              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\Preobrazuvane\\Preobrazuvane.csproj",
+              "RelativeDocumentMoniker": "Preobrazuvane\\Preobrazuvane.csproj",
+              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\Preobrazuvane\\Preobrazuvane.csproj",
+              "RelativeToolTip": "Preobrazuvane\\Preobrazuvane.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T17:58:51.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\UnicodeSimvoli\\Program.cs",
+              "RelativeDocumentMoniker": "UnicodeSimvoli\\Program.cs",
+              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\UnicodeSimvoli\\Program.cs",
+              "RelativeToolTip": "UnicodeSimvoli\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:53:50.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\ObrushtaneNaNiz\\Program.cs",
               "RelativeDocumentMoniker": "ObrushtaneNaNiz\\Program.cs",
@@ -106,12 +184,11 @@
               "RelativeToolTip": "ObrushtaneNaNiz\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T17:42:04.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T17:42:04.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\PreobrazuvaneNaobratno\\Program.cs",
               "RelativeDocumentMoniker": "PreobrazuvaneNaobratno\\Program.cs",
@@ -119,12 +196,11 @@
               "RelativeToolTip": "PreobrazuvaneNaobratno\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T17:26:41.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T17:26:41.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\StringHomeWork\\String\\Preobrazuvane\\Program.cs",
               "RelativeDocumentMoniker": "Preobrazuvane\\Program.cs",
@@ -132,8 +208,7 @@
               "RelativeToolTip": "Preobrazuvane\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T16:15:35.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T16:15:35.127Z"
             }
           ]
         }
